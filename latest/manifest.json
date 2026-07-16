@@ -1,7 +1,7 @@
 {
-  "version": 5,
-  "commit": "963118693be9a06d037a13e60f497a1ca55b9d4e",
-  "date": "2026-07-16T23:47:19Z",
+  "version": 6,
+  "commit": "6c0e1f1f1751345ec0844f817c35ac79ea1fb469",
+  "date": "2026-07-16T23:55:10Z",
   "modules": {
     "head": "bdx_head.bin",
     "neck": "bdx_neck.bin",
